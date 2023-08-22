@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fogma
 - 👀 I’m interested in gaming and  programming
-- 📫 How to reach me Fogma#0 on discord
 - 🖥️ Coding in, Python and Batch
 
 <!---
