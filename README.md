@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fogma
 - 👀 I’m interested in gaming and  programming
-- 🖥️ Coding in Python, Batch, Html, Css, Javascript
+- 🖥️ Coding in Python, Batch, Html, Css, Javascript, Learning Rust
 
 <!---
 FogmaLOL/FogmaLOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
